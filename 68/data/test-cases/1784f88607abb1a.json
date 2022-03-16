@@ -1,0 +1,88 @@
+{
+  "uid" : "1784f88607abb1a",
+  "name" : "test_ip_four",
+  "fullName" : "unittests.test_haclient.TestUrlChecker#test_ip_four",
+  "historyId" : "09306d804a80e630e53da6369cc71f45",
+  "time" : {
+    "start" : 1647409860651,
+    "stop" : 1647409860652,
+    "duration" : 1
+  },
+  "description" : "Test regex parsing user inputted url as ip v4 address",
+  "descriptionHtml" : "<p>Test regex parsing user inputted url as ip v4 address</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1647409860635,
+      "stop" : 1647409860635,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1647409860662,
+      "stop" : 1647409860663,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "unittests"
+  }, {
+    "name" : "suite",
+    "value" : "test_haclient"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUrlChecker"
+  }, {
+    "name" : "host",
+    "value" : "fv-az167-934"
+  }, {
+    "name" : "thread",
+    "value" : "6148-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "unittests.test_haclient"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1784f88607abb1a.json",
+  "parameterValues" : [ ]
+}
